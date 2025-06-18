@@ -153,7 +153,3 @@ This project is provided for educational purposes only.
 
 ---
 
-## 👨‍💻 Author
-Secure Chat Messenger — Generated via AI (ChatGPT).
-
----
